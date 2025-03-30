@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/IyengarShruti/AllDSA/tree/master/0200-number-of-islands) |
+| [0523-continuous-subarray-sum](https://github.com/IyengarShruti/AllDSA/tree/master/0523-continuous-subarray-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -31,8 +32,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/IyengarShruti/AllDSA/tree/master/0002-add-two-numbers) |
+| [0523-continuous-subarray-sum](https://github.com/IyengarShruti/AllDSA/tree/master/0523-continuous-subarray-sum) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/IyengarShruti/AllDSA/tree/master/0002-add-two-numbers) |
+## Hash Table
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/IyengarShruti/AllDSA/tree/master/0523-continuous-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/IyengarShruti/AllDSA/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
