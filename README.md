@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/IyengarShruti/AllDSA/tree/master/0015-3sum) |
 | [0200-number-of-islands](https://github.com/IyengarShruti/AllDSA/tree/master/0200-number-of-islands) |
 | [0523-continuous-subarray-sum](https://github.com/IyengarShruti/AllDSA/tree/master/0523-continuous-subarray-sum) |
 ## Depth-First Search
@@ -54,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/IyengarShruti/AllDSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/IyengarShruti/AllDSA/tree/master/0013-roman-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/IyengarShruti/AllDSA/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/IyengarShruti/AllDSA/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
