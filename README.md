@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/IyengarShruti/AllDSA/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/IyengarShruti/AllDSA/tree/master/0013-roman-to-integer) |
 | [0523-continuous-subarray-sum](https://github.com/IyengarShruti/AllDSA/tree/master/0523-continuous-subarray-sum) |
 ## Recursion
 |  |
@@ -40,9 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/IyengarShruti/AllDSA/tree/master/0013-roman-to-integer) |
 | [0523-continuous-subarray-sum](https://github.com/IyengarShruti/AllDSA/tree/master/0523-continuous-subarray-sum) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/IyengarShruti/AllDSA/tree/master/0523-continuous-subarray-sum) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/IyengarShruti/AllDSA/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
