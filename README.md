@@ -87,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/IyengarShruti/AllDSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/IyengarShruti/AllDSA/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
