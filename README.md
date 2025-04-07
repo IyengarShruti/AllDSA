@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/IyengarShruti/AllDSA/tree/master/0200-number-of-islands) |
 | [0523-continuous-subarray-sum](https://github.com/IyengarShruti/AllDSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/IyengarShruti/AllDSA/tree/master/0525-contiguous-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/IyengarShruti/AllDSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/IyengarShruti/AllDSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/IyengarShruti/AllDSA/tree/master/0525-contiguous-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/IyengarShruti/AllDSA/tree/master/1046-max-consecutive-ones-iii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/IyengarShruti/AllDSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## String
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/IyengarShruti/AllDSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/IyengarShruti/AllDSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -91,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/IyengarShruti/AllDSA/tree/master/1908-recyclable-and-low-fat-products) |
+## Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/IyengarShruti/AllDSA/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
