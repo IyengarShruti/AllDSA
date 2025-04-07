@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/IyengarShruti/AllDSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/IyengarShruti/AllDSA/tree/master/0525-contiguous-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/IyengarShruti/AllDSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/IyengarShruti/AllDSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -98,4 +99,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/IyengarShruti/AllDSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/IyengarShruti/AllDSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 <!---LeetCode Topics End-->
