@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/IyengarShruti/AllDSA/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/IyengarShruti/AllDSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/IyengarShruti/AllDSA/tree/master/0200-number-of-islands) |
 | [0523-continuous-subarray-sum](https://github.com/IyengarShruti/AllDSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/IyengarShruti/AllDSA/tree/master/0525-contiguous-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/IyengarShruti/AllDSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/IyengarShruti/AllDSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/IyengarShruti/AllDSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 <!---LeetCode Topics End-->
