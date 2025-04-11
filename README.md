@@ -17,14 +17,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/IyengarShruti/AllDSA/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/IyengarShruti/AllDSA/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/IyengarShruti/AllDSA/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/IyengarShruti/AllDSA/tree/master/0547-number-of-provinces) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/IyengarShruti/AllDSA/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/IyengarShruti/AllDSA/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
 | ------- |
@@ -102,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/IyengarShruti/AllDSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/IyengarShruti/AllDSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/IyengarShruti/AllDSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/IyengarShruti/AllDSA/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
