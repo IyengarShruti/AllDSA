@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/IyengarShruti/AllDSA/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/IyengarShruti/AllDSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/IyengarShruti/AllDSA/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/IyengarShruti/AllDSA/tree/master/0043-multiply-strings) |
 | [0523-continuous-subarray-sum](https://github.com/IyengarShruti/AllDSA/tree/master/0523-continuous-subarray-sum) |
 ## Recursion
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/IyengarShruti/AllDSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/IyengarShruti/AllDSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/IyengarShruti/AllDSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0043-multiply-strings](https://github.com/IyengarShruti/AllDSA/tree/master/0043-multiply-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/IyengarShruti/AllDSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Two Pointers
 |  |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/IyengarShruti/AllDSA/tree/master/0547-number-of-provinces) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/IyengarShruti/AllDSA/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
