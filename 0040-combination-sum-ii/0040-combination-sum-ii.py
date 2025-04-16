@@ -1,8 +1,9 @@
 class Solution:
     def combinationSum2(self, candidates: List[int], target: int) -> List[List[int]]:
-      # Approach: Backtracking. Ek element lo and explore karo and same element exclude karo 
+    # Approach: Backtracking. Ek element lo and explore karo and same element exclude karo 
     # and explore karo.. res mein append karte jao jaha target se equal ho... 
-    # TC & SC: O(2^target/minimum value in candidates)
+    # TC: O(n*2^n)
+    # SC: O(n)
         res= []
         candidates.sort()
         def dfs(i, cur, total):
